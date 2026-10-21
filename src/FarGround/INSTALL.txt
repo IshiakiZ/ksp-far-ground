@@ -1,0 +1,30 @@
+Far Ground @VERSION@
+for Kerbal Space Program 1.12.x
+
+Kerbin's ground drawn all the way to the horizon. The game draws its ground finely near
+the camera and as a few big, coarse pieces far off: from the clouds' height the
+mountains on the horizon are smooth humps. Far Ground draws the far ground again on the
+graphics card, at a point every few pixels, from the game's own heights, decals and land.
+
+INSTALL
+  This mod needs Keystone 0.9 or later, the base it stands on, which is a separate download:
+    https://spacedock.info/mod/4665/Keystone
+  Copy Keystone's folder (Keystone) into your KSP's GameData folder, and the FarGround
+  folder from this download beside it, and start the game. Without Keystone the game does
+  not load this mod. One copy of Keystone serves every mod that uses it. To remove this
+  mod, delete the FarGround folder.
+
+USE
+  It is on as installed. Its switch, how far apart its points are, and how far the game's
+  own ground is drawn are in the Keystone window: the keystone button on the game's
+  toolbar, or Option-K on a Mac and Alt-K elsewhere. Kerbin only for now, up to 120 km
+(above 100 km fading into the far planet, as the game's own ground does);
+  it checks Kerbin's ground is the game's own, and with a planet pack or another mod that
+  changes it, it stays off and says why there.
+
+WHERE IT WORKS
+  Made and tried on a Mac, and tried on Windows 11 on 2026-10-20: on Direct3D 11 (from 2 km
+  up and from 100 km, with Scatterer's air over it and EVE's city lights on it at night),
+  and on OpenGL. Nobody has run it on Linux yet.
+
+Everything else: https://github.com/IshiakiZ/ksp-far-ground
