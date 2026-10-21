@@ -7,7 +7,7 @@ mountains on the horizon are smooth humps. Far Ground draws the far ground again
 pixels, from the game's own heights, decals and land: the ranges, ridges and valleys far away as they really are in the
 game. Nothing is invented and nothing is stored.
 
-![From 100 km, looking down on the space centre's continent: with Far Ground (left) and the game's own ground (right)](src/FarGround/img/far-ground-100km.jpg)
+![From 12 km over the ranges west of the space centre: with Far Ground (left) and the game's own ground (right)](src/FarGround/img/far-ground-12km.jpg)
 
 ![A coast from 60 km: with Far Ground (left) and the game's own ground (right)](src/FarGround/img/far-ground-60km.jpg)
 
